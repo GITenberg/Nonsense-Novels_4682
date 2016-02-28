@@ -1,0 +1,33 @@
+_repo: Nonsense-Novels_4682
+creator:
+  author:
+    agent_name: Leacock, Stephen
+    alias: Leacock, Stephen Butler
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '1221'
+    url: http://www.gutenberg.org/2009/agents/1221
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories, Canadian'
+- !lcsh 'Parodies'
+- !lcc 'PS'
+tableOfContents: 'Maddened by mystery, or, The defective detective -- "Q." a psychic
+  pstory of the psupernatural -- Guido the gimlet of Ghent: A romance of chivalry
+  -- Gertrude the governess, or, Simple seventeen -- A hero in homespun, or, The life
+  struggle of Hezekiah Hayloft -- Sorrows of a super soul, or, The memoirs of Marie
+  Mushenough -- Hannah of the highlands, or, The laird of Loch Aucherlocherty -- Soaked
+  in seaweed, or, Upset in the ocean -- Caroline''s Christmas, or, The inexplicable
+  infant -- The man in asbestos: An allegory of the future.'
+title: Nonsense Novels
+url: http://www.gutenberg.org/ebooks/4682
