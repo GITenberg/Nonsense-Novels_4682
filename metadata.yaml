@@ -1,5 +1,5 @@
 _repo: Nonsense-Novels_4682
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ subjects:
 - !lcsh 'Humorous stories, Canadian'
 - !lcsh 'Parodies'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: 'Maddened by mystery, or, The defective detective -- "Q." a psychic
   pstory of the psupernatural -- Guido the gimlet of Ghent: A romance of chivalry
   -- Gertrude the governess, or, Simple seventeen -- A hero in homespun, or, The life
